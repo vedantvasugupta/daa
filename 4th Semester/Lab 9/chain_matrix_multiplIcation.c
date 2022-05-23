@@ -1,4 +1,4 @@
-//matrix chain multiplication in c by aryan srivastava
+//chain matrix multiplication
 #include<stdio.h>
 int main()
 {
